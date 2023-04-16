@@ -4,3 +4,7 @@
 .blue{
     color:blue
 }
+.container{
+    border:black;
+    border-style:solid;
+}
